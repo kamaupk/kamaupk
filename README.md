@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi there 👋 am paul kamau
+## current learning goals
+-I'm passionate learner currently exploring _**programming**_ and _**wed development**_
+## Technologies/languges am studying
+_strengthen my python skills_
+
+_practice *git and Github*_
+## current projects
+-learning GIt and GIThub
+-small python project
+## How to reach me
+_*Email*_ **kamaupaulpro@gmail.com**
+
 
 <!--
 **kamaupk/kamaupk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
